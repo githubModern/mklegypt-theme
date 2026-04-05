@@ -1,8 +1,8 @@
-# Cosmetsy - Premium Beauty Store WordPress Theme
+# MKL Egypt - Premium Beauty Store WordPress Theme
 
 ## 🖼️ Project Showcase
 
-![Cosmetsy Theme](./assets/screenshot.png)
+![MKL Egypt Theme](./assets/screenshot.png)
 
 *Note: Screenshot shows the beauty store homepage with product showcases and custom header design.*
 
@@ -105,7 +105,7 @@ Customized and enhanced the Cosmetsy WordPress theme for MKL Egypt, a premium be
 ## 📁 Project Structure
 
 ```
-cosmetsy/
+mklegypt/
 ├── page-beauty-home.php     # Custom homepage template
 ├── functions.php            # Theme functionality & customizations
 ├── inc/customizer.php       # Advanced theme options
