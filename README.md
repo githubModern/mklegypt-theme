@@ -8,7 +8,7 @@
 
 ## 🚀 Project Overview
 
-Customized and enhanced the Cosmetsy WordPress theme for MKL Egypt, a premium beauty and cosmetics e-commerce platform. Implemented advanced customizations, performance optimizations, and tailored the theme for the Egyptian market.
+Customized and enhanced the MKLEGYPT WordPress theme for MKL Egypt, a premium beauty and cosmetics e-commerce platform. Implemented advanced customizations, performance optimizations, and tailored the theme for the Egyptian market.
 
 ## 🎯 Client & Industry
 
@@ -21,7 +21,7 @@ Customized and enhanced the Cosmetsy WordPress theme for MKL Egypt, a premium be
 ## 🛠️ Technologies & Stack
 
 - **Platform:** WordPress 6.x
-- **Theme:** Cosmetsy (Customized)
+- **Theme:** MKLEGYPT (Customized)
 - **E-commerce:** WooCommerce with extensive customizations
 - **Frontend:** HTML5, CSS3, JavaScript, Font Awesome 6.4.0
 - **Backend:** PHP, WordPress Hooks & APIs
@@ -140,7 +140,7 @@ mklegypt/
 - Client satisfaction: 5/5 stars
 
 **Client Testimonial:**
-"The customized Cosmetsy theme perfectly captures our brand essence. The level of customization and performance optimization has significantly improved our online presence and customer experience."
+"The customized MKLEGYPT theme perfectly captures our brand essence. The level of customization and performance optimization has significantly improved our online presence and customer experience."
 
 ## 🔗 Live Demo
 
